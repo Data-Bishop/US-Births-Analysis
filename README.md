@@ -48,7 +48,7 @@ The U.S Social Security Administration, with data range from (2004 - 2014) <http
 :bulb: The strip plot above shows the distribution of monthly births.
 
 
-### Conclusions
+### Conclusion
 Below are some of the insights that i have gained from the analysis;
 
 1.	 September appeared to be the most popular birth month, having nine out of the ten most popular birth dates. With these nine birth dates all occurring between the second and third weeks, three of which are September 9, September 19, and September 12. Following a customary gestation period of 266 days, in theory, many of those babies would have been conceived on December 17, December 27, and December 20 respectively. This therefore shows that more babies are usually conceived during holiday periods, because people tend to have more time for baby-making during these periods (their time off from work, studies etc.).
