@@ -1,5 +1,5 @@
 # PROJECT: ANALYSIS OF BIRTHS IN THE UNITED STATES
-#### Author: Abasifreke Nkanang
+#### Author: Abasifreke Nkanang (DataBishop)
 
 #### Date: July 28, 2022
     
