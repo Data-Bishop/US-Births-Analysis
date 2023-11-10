@@ -1,7 +1,7 @@
 # PROJECT: ANALYSIS OF BIRTHS IN THE UNITED STATES
 #### Author: Abasifreke Nkanang (DataBishop)
 
-#### Stack - Python, Pandas, Numpy, Matplotlib, Seaborn
+#### Tools/Languages used - Python, Jupyter Notebbok, Pandas, Numpy, Matplotlib, Seaborn
 
 #### Date: July 28, 2022
     
