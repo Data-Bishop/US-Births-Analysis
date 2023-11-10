@@ -1,6 +1,8 @@
 # PROJECT: ANALYSIS OF BIRTHS IN THE UNITED STATES
 #### Author: Abasifreke Nkanang (DataBishop)
 
+#### Stack - Python, Pandas, Numpy, Matplotlib, Seaborn
+
 #### Date: July 28, 2022
     
 #### [Tableau Dashboard](https://public.tableau.com/app/profile/abasifreke.nkanang/viz/us_births_dataset1994-2014/Dashboard1)
